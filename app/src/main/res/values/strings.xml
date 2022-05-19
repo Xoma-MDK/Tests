@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="cart"><br>Корзина</br></string>
+    <string name="cart2"><br>Оплата и доставка заказа</br></string>
+    <string name="name">Введите ваше имя</string>
+    <string name="phone">Введите ваш контактный номер</string>
+    <string name="email">Введите ваш Email</string>
+    <string name="minus"><br>-</br></string>
+    <string name="plus"><br>+</br></string>
+    <string name="price1">900 рублей</string>
+    <string name="price2">7000 рублей</string>
+    <string name="price3">1200 рублей</string>
+    <string name="item1">Летнее платье</string>
+    <string name="item2">Кроссовки Fila</string>
+    <string name="item3">Шапка</string>
+    <string name="item1description">Модный, с изображением красных губ, с О-образным вырезом без рукавов в стиле пин-ап</string>
+    <string name="item2description">Отличный выбор для динамичной и комфортной прогулки на любом покрытии и в любую погоду</string>
+    <string name="item3description">Мягкая ткань, плотная вязка, подходит для холодной погоды.</string>
+    <string name="button1">Оплатить покупку</string>
+    <string name="btnOrder">Оплатить заказ</string>
+    <string name="delivery">Доставка</string>
+    <string name="self">Самовывоз</string>
+    <string name="q1">Как заберете заказ:</string>
+    <string name="btnMap">На карте</string>
+</resources>
